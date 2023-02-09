@@ -1,0 +1,17 @@
+{
+    "name": "politecat/sample_web",
+    "autoload": {
+        "psr-4": {
+            "Politecat\\SampleWeb\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "youdonut",
+            "email": "youdonut@github.com"
+        }
+    ],
+    "require": {
+        "almasaeed2010/adminlte": "~3.2"
+    }
+}
